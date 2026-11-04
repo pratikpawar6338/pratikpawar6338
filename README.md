@@ -2,7 +2,7 @@
 
 ### Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
-I'm a BCA graduate from Pune, India, passionate about data analytics and transforming raw data into meaningful business insights.
+I'm a BBA(CA) graduate from Pune, India, passionate about data analytics and transforming raw data into meaningful business insights.
 
 I'm currently strengthening my skills in SQL, Microsoft Excel, Power BI and Python, while building practical projects to solve real-world business problems.
 
