@@ -22,6 +22,12 @@ To start my career as a Data Analyst, where I can apply my analytical, technical
 | Visualization Libraries | Matplotlib, Seaborn |
 | Tools | Jupyter Notebook, Git, GitHub |
 
+### 📚 Areas of Development
+
+- Advanced SQL: CTEs and Window Functions
+- Advanced Excel: Dashboard Development
+- Power BI: Advanced DAX and Data Modelling
+  
 ### 📂 Featured Projects
 
 **1. Automotive Fuel Efficiency Analysis & Prediction**
@@ -37,13 +43,6 @@ An exploratory data analysis and predictive modelling project using the Auto MPG
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 [View Project →](https://github.com/pratikpawar6338/Automotive-Fuel-Efficiency-Analysis-Prediction)
-
-### 📚 Currently Learning
-
-- Advanced SQL: CTEs, Window Functions and Subqueries.
-- Excel: Advanced Formulas, Pivot Tables and Dashboards.
-- Power BI: Power Query, Data Modelling and DAX.
-- Python: Data Analysis and Exploratory Data Analysis.
 
 ### 📫 Connect With Me
 
